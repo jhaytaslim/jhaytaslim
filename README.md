@@ -4,6 +4,7 @@ I'm a senior software engineer, primarily working in the .NET and NodeJs ecosyst
 
 Things I talk about on LinkedIn:
 - C#/.NET, NodeJs and NestJs ❤
+- ReactJs and React Native ❤
 - Software engineering and architecture 
 - Distributed systems and how to build them
 - Databases and optimization techniques
